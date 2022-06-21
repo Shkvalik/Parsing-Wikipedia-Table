@@ -16,5 +16,5 @@ Installation of requirements:
 `pip3 install -r requirements.txt`
 
 #### Developers:
-Shkvalik
+Valentyn Kovalenko
 `valikko2004@gmail.com`
