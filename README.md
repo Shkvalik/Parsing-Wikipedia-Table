@@ -1,4 +1,4 @@
-# Parsing
+# Test Task Parsing Data
 
 #### Executable:
 `python3 main.py`
@@ -12,9 +12,12 @@
 #### Python requirements:
 `requirements.txt`
 
-Installation of requirements:  
+#### Installation of requirements:  
 `pip3 install -r requirements.txt`
 
+#### Client:
+Company "Avada"
+
 #### Developers:
-Valentyn Kovalenko
+Valentin Kovalenko
 `valikko2004@gmail.com`
